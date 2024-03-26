@@ -3,6 +3,10 @@ uuid = "281d7c9c-f17a-4237-a411-dffb7e66d385"
 authors = ["Matt Bhagat-Conway <matt@indicatrix.org> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+libpostal_jll = "af819820-d0b8-51fd-9b6f-e7926976c73e"
+
 [compat]
 julia = "1.6"
 
