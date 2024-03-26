@@ -4,6 +4,7 @@ authors = ["Matt Bhagat-Conway <matt@indicatrix.org> and contributors"]
 version = "1.0.0-DEV"
 
 [deps]
+EnumX = "4e289a0a-7415-4d19-859d-a7e5c4648b56"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 libpostal_jll = "af819820-d0b8-51fd-9b6f-e7926976c73e"
 
